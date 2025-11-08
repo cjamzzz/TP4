@@ -15,5 +15,4 @@ os.system("git bisect run python manage.py test")
 # Reset to the original state after bisect finishes
 os.system("git bisect reset")
 
-# feature 1 modified by test
-# feature 2
+# Feature 1 modified by main
