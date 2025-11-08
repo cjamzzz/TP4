@@ -17,7 +17,7 @@ def main():
         ) from exc
     execute_from_command_line(sys.argv)
 
-    # this is a comment
+    # this is a comment from main
 
     # this is a new comment
 
