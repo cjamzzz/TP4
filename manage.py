@@ -19,6 +19,8 @@ def main():
 
     # this is a comment
 
+    # this is a new comment
+
 
 if __name__ == '__main__':
     main()
